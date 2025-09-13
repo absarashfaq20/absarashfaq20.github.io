@@ -46,7 +46,7 @@
                           </div>";
       }
         
-      $recipient = "obaidashfaq20@gmail.com";
+      $recipient = "absarashfaq20@gmail.com";
       
         
       $email_body .= "</div>";
